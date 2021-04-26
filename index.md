@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Electronics Reference"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Resources and References for Thinkers and Tinkerers
